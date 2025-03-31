@@ -55,12 +55,12 @@
     {
       "name": "Masechet Orla",
       "url": "/mishna-study/masechet/zeraim/orla",
-      "active": false
+      "active": true
     },
     {
       "name": "Masechet Bikurim",
       "url": "/mishna-study/masechet/zeraim/bikurim",
-      "active": false
+      "active": true
     }
   ],
   "moed": [
@@ -129,7 +129,7 @@
     {
       "name": "Masechet Yevamot",
       "url": "/mishna-study/masechet/nashim/yevamot",
-      "active": false
+      "active": true
     },
     {
       "name": "Masechet Ketubot",
@@ -191,7 +191,7 @@
     {
       "name": "Masechet Shevuot",
       "url": "/mishna-study/masechet/nezikin/shevuot",
-      "active": false
+      "active": true
     },
     {
       "name": "Masechet Eduyot",
